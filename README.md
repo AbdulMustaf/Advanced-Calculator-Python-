@@ -1,6 +1,6 @@
-#Advanced Scientific Calculator
+##Advanced Scientific Calculator
 
-Overview
+##Overview
 
 The Advanced Scientific Calculator is a Python-based command-line tool that offers various mathematical and scientific functions. It is designed for ease of use, with support for basic arithmetic, advanced mathematical operations, trigonometric functions, logarithms, memory operations, and more. The project also includes a comprehensive test suite to ensure reliability.
 
